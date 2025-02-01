@@ -4,11 +4,11 @@ A Python-based tool for visualizing audio, with room for enhancements.
 ### Project Description 
 This project provides a visual representation of output device audio, the source code partly generated using AI. It is designed to be extensible and can be implimented in other softweres.
 
-## **Screenshot**
-This a preview of the application in action:
-
-![Main Interface](screenshots/image1.png)
-*Main visualization window displaying waterfall data.*
+## **Demo**
+<video width="600" controls>
+  <source src="demo/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## if you want to improve this project (I recomand creating a virtual envirment): 
 
