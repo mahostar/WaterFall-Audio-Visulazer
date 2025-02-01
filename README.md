@@ -1,5 +1,5 @@
 # Waterfall Visualizer
-A Python-based tool for visualizing waterfalls, with room for enhancements.
+A Python-based tool for visualizing audio, with room for enhancements.
 
 ### Project Description 
 This project provides a visual representation of output device audio, the source code partly generated using AI. It is designed to be extensible and can be implimented in other softweres.
