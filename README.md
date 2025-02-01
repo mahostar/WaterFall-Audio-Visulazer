@@ -5,7 +5,7 @@ A Python-based tool for visualizing waterfalls, with room for enhancements.
 This project provides a visual representation of waterfall data, partly generated using AI. It is designed to be extensible and can be implimented in other softweres.
 
 
-## if you want to improve this project ( I recomand creating a virtual envirment ):
+##if you want to improve this project ( I recomand creating a virtual envirment ):
 
 **Creating a python virtual envirment :**
 ```bash
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ```
 
 
-## if you want the build the app :
+##if you want the build the app :
 
 ```bash
 pip install pyinstaller
